@@ -1,0 +1,7 @@
+Steps
+
+go get go.mongodb.org/mongo-driver/v2/mongo - this is the driver for mongodb
+go get github.com/gin-gonic/gin - this is the gin-gonic for the Web API
+go get github.com/joho/godotenv - for the dotenv
+
+connect with mongo: in the database_connection.go, by using a mongodb connection string (can be found from the mongoDB compass)
